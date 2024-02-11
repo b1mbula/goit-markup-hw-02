@@ -1,0 +1,112 @@
+body {
+  background-color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+  color: inherit;
+}
+
+img {
+  display: block;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+
+.menu {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.contact-block {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.hero {
+  background-color: #2e2f42;
+  color: #fff;
+}
+
+.main-title {
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.order-service-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  background-color: #4d5ae5;
+}
+
+h2,
+h3 {
+  color: #2e2f42;
+}
+
+p {
+  color: #434455;
+}
+
+.benefits-list-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.benefits-list-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.team {
+  background-color: #f4f4fd;
+  text-align: center;
+}
+
+.team-title {
+  font-size: 36px;
+  line-height: 1.11111;
+  text-transform: capitalize;
+}
+
+.team-list-member {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+.team-list-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}

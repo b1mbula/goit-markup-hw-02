@@ -131,10 +131,15 @@ p {
   background-color: #ffffff;
 }
 
+.team-list-item {
+  background-color: #ffffff;
+}
+
 .team-list-member {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .team-list-text {

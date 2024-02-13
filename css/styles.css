@@ -145,6 +145,11 @@ p {
 
 .portfolio-title {
   line-height: 1.11;
+  letter-spacing: 0.02em;
+}
+
+.portfolio-list {
+  background-color: #ffffff;
 }
 
 .portfolio-list-title {
